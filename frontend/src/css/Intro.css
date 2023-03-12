@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.intro {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-top: 6.875rem;
+  text-align: left;
+}
+
+.intro-title {
+  width: 40rem;
+  margin-bottom: 1.875rem;
+  font-family: "Elephant";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 72px;
+  line-height: 88px;
+  align-items: center;
+  color: black;
+}
+
+.intro-detail {
+  width: 30rem;
+  margin-bottom: 1.875rem;
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1.375rem;
+  display: flex;
+  align-items: center;
+}
+
+.intro-start-rmbg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1.25rem;
+  color: white;
+  width: 10.5rem;
+  height: 3.75rem;
+  background: #ff5b5b;
+  border-radius: 10px;
+}

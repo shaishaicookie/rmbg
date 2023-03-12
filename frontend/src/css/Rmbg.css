@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.rmbg {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.input-box {
+  margin-top: 2rem;
+  height: 18.75rem;
+  border: 0.125rem dashed #000000;
+  border-radius: 1.25rem;
+  display: flex; /* 使用 flex 布局 */
+  flex-direction: column; /* 垂直排列 */
+  justify-content: center; /* 水平居中 */
+  align-items: center; /* 垂直居中 */
+}
+
+.input-box-text {
+  justify-content: center;
+  text-align: center;
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 28px;
+}

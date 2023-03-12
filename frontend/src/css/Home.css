@@ -1,0 +1,8 @@
+.Home {
+  height: 100%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #fff6eb;
+  height: 100vh;
+}

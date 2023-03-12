@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "MyCustomFont";
+  src: url("./assets/fonts/Elephant.ttf") format("truetype");
+}
+
+.App {
+  height: 100vh;
+  padding: 0 360px;
+  text-align: center;
+  align-items: center;
+  background-color: #fff6eb;
+}
